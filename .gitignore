@@ -28,4 +28,3 @@ yarn.lock
 .yalc
 yalc.lock
 .vcxproj
-.env.development
