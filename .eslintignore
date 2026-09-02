@@ -1,0 +1,14 @@
+dist/*.js
+src/assets
+tests/unit/coverage
+node_modules
+dist
+types
+.vscode
+.husky
+*.woff
+*.ttf
+*.sh
+*.scss
+*.css
+*.svg
